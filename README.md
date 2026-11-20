@@ -10,7 +10,8 @@
 </div>
 
 ---
-
+<div align="left">
+  
 ### 🧭 About Me  
 
 I bridge the gap between **Civil Infrastructure / Geomatics** and **Software Engineering**.  By day, I tackle complex surveying, CAD, and subsurface utility engineering projects under the direction of Registered Professional Engineers (PE) and Professional Land Surveyors (PLS).  By night, I build automation pipelines, run GPU-accelerated distributed computing, design custom hardware modifications, and experiment with local AI orchestration.  
@@ -90,6 +91,7 @@ I bridge the gap between **Civil Infrastructure / Geomatics** and **Software Eng
   - Custom-compiled CUDA trial factoring (`mfaktc`) and PRP primality testing (`PRPLL`) orchestrated via `AutoPrimeNet` across Tesla, Quadro/RTX Workstation, and Ada/Blackwell GPUs.  
 
 ---
+</div>
 
 ### 📊 GitHub Stats  
 
